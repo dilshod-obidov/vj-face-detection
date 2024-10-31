@@ -10,7 +10,7 @@ Viola Jones Face Detection by Team 4
 `Cascade Trainger GUI` is used to train the model.
 
 # Public dataset
-* Positive samples (425): [home-face-detection](https://www.kaggle.com/datasets/jssunmathi/home-face-detection)
+* Positive samples cropped face (~1200): [Face-Detection-Dataset](https://www.kaggle.com/datasets/fareselmenshawii/face-detection-dataset/data)
 * Negative samples (425): [haarcascade-negatives](https://github.com/JoakimSoderberg/haarcascade-negatives/)
 
 `Private dataset is consist of members' faces. For privacy reasons, it is not shared.`
